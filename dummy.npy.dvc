@@ -1,0 +1,5 @@
+outs:
+- md5: 45768e23fa4f67c872bf51d7d6fcf951
+  size: 120000128
+  hash: md5
+  path: dummy.npy
